@@ -4,10 +4,6 @@
 ---
 
 ## 💻 Tech Stack:
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=dot-net&logoColor=white)
-![Roslyn](https://img.shields.io/badge/Roslyn-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
@@ -15,6 +11,10 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=dot-net&logoColor=white)
+![Roslyn](https://img.shields.io/badge/Roslyn-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
