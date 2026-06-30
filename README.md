@@ -69,7 +69,7 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nilsutt&show_icons=true&theme=radical" alt="Nilsu's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nilsutt&show_icons=true&theme=radical&v=1" alt="Nilsu's GitHub Stats"/>
 </p>
 
 ---
